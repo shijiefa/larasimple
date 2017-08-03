@@ -2,6 +2,8 @@
 
 ## laravel框架核心精简版composer 搭建
 
+- 根据书《Laravel框架关键技术》
+
 composer直接拉取laravel核心MVC结构
 
 ```json
