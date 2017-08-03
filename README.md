@@ -3,6 +3,7 @@
 ## laravel框架核心精简版composer 搭建
 
 - 根据书《Laravel框架关键技术》
+- [一个使用 Composer 构建的极简 Laravel 核心功能框架 larasimple](https://laravel-china.org/articles/5357/a-minimalist-laravel-core-functionality-framework-built-using-composer-larasimple)
 
 composer直接拉取laravel核心MVC结构
 
